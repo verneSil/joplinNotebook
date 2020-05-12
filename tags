@@ -1,0 +1,545 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+1. 回滚的场景	1f9dac45bf5641de8a1e70f9decccea6.md	/^#### 1. 回滚的场景$/;"	t
+1. 数据存储	20e7a5e82dba40da83599b67c95a086d.md	/^### 1. 数据存储$/;"	S
+1. 背景	d16e141b728942378315dfc5360ac1a4.md	/^### 1. 背景$/;"	S
+1. 集成thread类创建线程	0464cbfe609a4817aef3a0e0894aa098.md	/^### 1. 集成thread类创建线程$/;"	S
+1.JAVA 代码	a2f6621b59e44f919ec60bbe79854868.md	/^### 1.JAVA 代码$/;"	S
+1.intern 正确使用例子	a2f6621b59e44f919ec60bbe79854868.md	/^### 1.intern 正确使用例子$/;"	S
+1.jdk6中的解释	a2f6621b59e44f919ec60bbe79854868.md	/^#### 1.jdk6中的解释$/;"	t
+1.基础篇	0250ffc337bd4217a777dd1480c10c00.md	/^## 1.基础篇$/;"	s
+1.面	5f7765299b974936b892535f2063192b.md	/^## 1.面$/;"	s
+11月	7f98dd84a0b7424e963ce7cb4b81b6a6.md	/^## 11月    $/;"	s
+12月	7f98dd84a0b7424e963ce7cb4b81b6a6.md	/^## 12月    $/;"	s
+1月	7f98dd84a0b7424e963ce7cb4b81b6a6.md	/^## 1月$/;"	s
+1，根据 log4j 打印日志查找问题原因	a2f6621b59e44f919ec60bbe79854868.md	/^#### 1，根据 log4j 打印日志查找问题原因$/;"	t
+2, 跟踪Thread.currentThread().getStackTrace()的 native 代码，验证String#intern	a2f6621b59e44f919ec60bbe79854868.md	/^#### 2, 跟踪Thread.currentThread().getStackTrace()的 native 代码，验证String#intern$/;"	t
+2. consumer	20e7a5e82dba40da83599b67c95a086d.md	/^### 2. consumer$/;"	S
+2. 回滚的处理	1f9dac45bf5641de8a1e70f9decccea6.md	/^#### 2. 回滚的处理$/;"	t
+2.1. MySQL 主从集群	92c2653f592e445890e2aa03208acfea.md	/^## 2.1. MySQL 主从集群$/;"	s
+2.2. 主从复制原理	92c2653f592e445890e2aa03208acfea.md	/^## 2.2. 主从复制原理$/;"	s
+2.3. 客观认识：主从架构	92c2653f592e445890e2aa03208acfea.md	/^## 2.3. 客观认识：主从架构$/;"	s
+2.3.1. 同步复制	92c2653f592e445890e2aa03208acfea.md	/^### 2.3.1. 同步复制$/;"	S
+2.3.2. 异步复制	92c2653f592e445890e2aa03208acfea.md	/^### 2.3.2. 异步复制$/;"	S
+2.jdk7中的解释	a2f6621b59e44f919ec60bbe79854868.md	/^#### 2.jdk7中的解释$/;"	t
+2.实现Runnable接口创建线程	0464cbfe609a4817aef3a0e0894aa098.md	/^### 2.实现Runnable接口创建线程$/;"	S
+2.排查过程	d16e141b728942378315dfc5360ac1a4.md	/^### 2.排查过程$/;"	S
+2.进阶篇	0250ffc337bd4217a777dd1480c10c00.md	/^## 2.进阶篇$/;"	s
+2.面	5f7765299b974936b892535f2063192b.md	/^## 2.面$/;"	s
+2018.3.面试题	22cb762886f44a1f8a2bf227821d3fad.md	/^# 2018.3.面试题$/;"	c
+2018.4 三年规划	a0f45f0da2b24772ad075de757b8807e.md	/^# 2018.4 三年规划$/;"	c
+2018年计划	5da6f61062874ed4940a63aa69b049e3.md	/^## 2018年计划$/;"	s
+2月	7f98dd84a0b7424e963ce7cb4b81b6a6.md	/^## 2月$/;"	s
+2，intern 不当使用	a2f6621b59e44f919ec60bbe79854868.md	/^## 2，intern 不当使用$/;"	s
+2，native 代码	a2f6621b59e44f919ec60bbe79854868.md	/^## 2，native 代码$/;"	s
+3,fastjson 不当使用 String#intern	a2f6621b59e44f919ec60bbe79854868.md	/^#### 3,fastjson 不当使用 String#intern$/;"	t
+3. producer	20e7a5e82dba40da83599b67c95a086d.md	/^### 3. producer$/;"	S
+3. 主从延迟	92c2653f592e445890e2aa03208acfea.md	/^# 3. 主从延迟$/;"	c
+3. 特殊场景	1f9dac45bf5641de8a1e70f9decccea6.md	/^#### 3. 特殊场景$/;"	t
+3.1 Java对象头	42e69f3e78a24e339e7ed45918045f0c.md	/^## 3.1 Java对象头$/;"	s
+3.1. 如何监控	92c2653f592e445890e2aa03208acfea.md	/^## 3.1. 如何监控$/;"	s
+3.2 对象头中Mark Word与线程中Lock Record	42e69f3e78a24e339e7ed45918045f0c.md	/^## 3.2 对象头中Mark Word与线程中Lock Record$/;"	s
+3.2. 主从延迟的影响	92c2653f592e445890e2aa03208acfea.md	/^## 3.2. 主从延迟的影响$/;"	s
+3.3 监视器（Monitor）	42e69f3e78a24e339e7ed45918045f0c.md	/^## 3.3 监视器（Monitor）$/;"	s
+3.3. 产生原因	92c2653f592e445890e2aa03208acfea.md	/^## 3.3. 产生原因$/;"	s
+3.4. 如何解决	92c2653f592e445890e2aa03208acfea.md	/^## 3.4. 如何解决$/;"	s
+3.JAVA坑	0250ffc337bd4217a777dd1480c10c00.md	/^## 3.JAVA坑$/;"	s
+3.实现Callable接口通过FutureTask包装器来创建Thread线程	0464cbfe609a4817aef3a0e0894aa098.md	/^### 3.实现Callable接口通过FutureTask包装器来创建Thread线程$/;"	S
+3.面，一般是部门leader，比较看重业务以及架构	5f7765299b974936b892535f2063192b.md	/^## 3.面，一般是部门leader，比较看重业务以及架构$/;"	s
+4. broker	20e7a5e82dba40da83599b67c95a086d.md	/^### 4. broker$/;"	S
+4. 使用ExecutorService、Callable、Future实现有返回结果的线程	0464cbfe609a4817aef3a0e0894aa098.md	/^### 4. 使用ExecutorService、Callable、Future实现有返回结果的线程$/;"	S
+4.1 自旋锁	42e69f3e78a24e339e7ed45918045f0c.md	/^## 4.1 自旋锁$/;"	s
+4.2 适应性自旋锁	42e69f3e78a24e339e7ed45918045f0c.md	/^## 4.2 适应性自旋锁$/;"	s
+4.3 锁消除	42e69f3e78a24e339e7ed45918045f0c.md	/^## 4.3 锁消除$/;"	s
+4.4 锁粗化	42e69f3e78a24e339e7ed45918045f0c.md	/^## 4.4 锁粗化$/;"	s
+4.5 偏向锁	42e69f3e78a24e339e7ed45918045f0c.md	/^## 4.5 偏向锁$/;"	s
+4.6 轻量级锁	42e69f3e78a24e339e7ed45918045f0c.md	/^## 4.6 轻量级锁$/;"	s
+4.7 重量级锁	42e69f3e78a24e339e7ed45918045f0c.md	/^## 4.7 重量级锁$/;"	s
+4.8 重量级锁、轻量级锁和偏向锁之间转换	42e69f3e78a24e339e7ed45918045f0c.md	/^## 4.8 重量级锁、轻量级锁和偏向锁之间转换$/;"	s
+7月计划	5da6f61062874ed4940a63aa69b049e3.md	/^### 7月计划$/;"	S
+<a id="t1"></a><a id="t1"></a>**1.1 垂直拆分**	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t1"><\/a><a id="t1"><\/a>**1.1 垂直拆分**$/;"	s
+<a id="t1"></a>基础知识之一：锁的类型	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^### <a id="t1"><\/a>基础知识之一：锁的类型$/;"	S
+<a id="t10"></a><a id="t10"></a>**2.1 设计方案**	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t10"><\/a><a id="t10"><\/a>**2.1 设计方案**$/;"	s
+<a id="t10"></a>总结	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^## <a id="t10"><\/a>总结$/;"	s
+<a id="t11"></a><a id="t11"></a>**2.1.1 proxy模式**	9722486cf5d447f3a88729f5addbed3c.md	/^### <a id="t11"><\/a><a id="t11"><\/a>**2.1.1 proxy模式**$/;"	S
+<a id="t12"></a><a id="t12"></a>**2.1.2 smart-client模式**	9722486cf5d447f3a88729f5addbed3c.md	/^### <a id="t12"><\/a><a id="t12"><\/a>**2.1.2 smart-client模式**$/;"	S
+<a id="t12"></a>减少锁的时间	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^## <a id="t12"><\/a>减少锁的时间$/;"	s
+<a id="t13"></a><a id="t13"></a>**2.2 业界产品**	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t13"><\/a><a id="t13"><\/a>**2.2 业界产品**$/;"	s
+<a id="t13"></a>减少锁的粒度	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^## <a id="t13"><\/a>减少锁的粒度$/;"	s
+<a id="t14"></a>ConcurrentHashMap	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^### <a id="t14"><\/a>ConcurrentHashMap$/;"	S
+<a id="t15"></a><a id="t15"></a>****3.1 基本路由功能****	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t15"><\/a><a id="t15"><\/a>****3.1 基本路由功能****$/;"	s
+<a id="t15"></a>LongAdder	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^### <a id="t15"><\/a>LongAdder$/;"	S
+<a id="t16"></a><a id="t16"></a>**3.1.1 sql类型判断**	9722486cf5d447f3a88729f5addbed3c.md	/^### <a id="t16"><\/a><a id="t16"><\/a>**3.1.1 sql类型判断**$/;"	S
+<a id="t16"></a>LinkedBlockingQueue	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^### <a id="t16"><\/a>LinkedBlockingQueue$/;"	S
+<a id="t17"></a><a id="t17"></a>3.1.2 强制走主库	9722486cf5d447f3a88729f5addbed3c.md	/^### <a id="t17"><\/a><a id="t17"><\/a>3.1.2 强制走主库$/;"	S
+<a id="t17"></a>锁粗化	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^## <a id="t17"><\/a>锁粗化$/;"	s
+<a id="t18"></a><a id="t18"></a>****3.2 从库路由策略****	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t18"><\/a><a id="t18"><\/a>****3.2 从库路由策略****$/;"	s
+<a id="t18"></a>使用读写锁	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^## <a id="t18"><\/a>使用读写锁$/;"	s
+<a id="t19"></a><a id="t19"></a>****3.3 HA、Scalable相关****	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t19"><\/a><a id="t19"><\/a>****3.3 HA、Scalable相关****$/;"	s
+<a id="t19"></a>读写分离	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^## <a id="t19"><\/a>读写分离$/;"	s
+<a id="t2"></a><a id="t2"></a>**1.2 读写分离**	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t2"><\/a><a id="t2"><\/a>**1.2 读写分离**$/;"	s
+<a id="t2"></a>基础知识之二：java线程阻塞的代价	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^### <a id="t2"><\/a>基础知识之二：java线程阻塞的代价$/;"	S
+<a id="t20"></a>使用cas	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^## <a id="t20"><\/a>使用cas$/;"	s
+<a id="t21"></a><a id="t21"></a>****4.1 SQL解析****	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t21"><\/a><a id="t21"><\/a>****4.1 SQL解析****$/;"	s
+<a id="t21"></a>消除缓存行的伪共享	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^## <a id="t21"><\/a>消除缓存行的伪共享$/;"	s
+<a id="t22"></a><a id="t22"></a>****4.2 SQL路由****	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t22"><\/a><a id="t22"><\/a>****4.2 SQL路由****$/;"	s
+<a id="t23"></a><a id="t23"></a>****4.4 SQL执行****	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t23"><\/a><a id="t23"><\/a>****4.4 SQL执行****$/;"	s
+<a id="t24"></a><a id="t24"></a>****4.5 结果集合并****	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t24"><\/a><a id="t24"><\/a>****4.5 结果集合并****$/;"	s
+<a id="t25"></a><a id="t25"></a>****4.6 二级索引****	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t25"><\/a><a id="t25"><\/a>****4.6 二级索引****$/;"	s
+<a id="t26"></a><a id="t26"></a>****4.7 分布式id生成器****	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t26"><\/a><a id="t26"><\/a>****4.7 分布式id生成器****$/;"	s
+<a id="t27"></a><a id="t27"></a>****4.7 分布式事务****	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t27"><\/a><a id="t27"><\/a>****4.7 分布式事务****$/;"	s
+<a id="t3"></a><a id="t3"></a>**1.2.1 读写分离的优点**	9722486cf5d447f3a88729f5addbed3c.md	/^### <a id="t3"><\/a><a id="t3"><\/a>**1.2.1 读写分离的优点**$/;"	S
+<a id="t3"></a>基础知识之三：markword	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^### <a id="t3"><\/a>基础知识之三：markword$/;"	S
+<a id="t4"></a><a id="t4"></a>**1.2.2 读写分离的挑战**	9722486cf5d447f3a88729f5addbed3c.md	/^### <a id="t4"><\/a><a id="t4"><\/a>**1.2.2 读写分离的挑战**$/;"	S
+<a id="t4"></a>小结	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^### <a id="t4"><\/a>小结$/;"	S
+<a id="t5"></a><a id="t5"></a>**1.3 分库分表**	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t5"><\/a><a id="t5"><\/a>**1.3 分库分表**$/;"	s
+<a id="t5"></a>java中的锁	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^## <a id="t5"><\/a>java中的锁$/;"	s
+<a id="t6"></a><a id="t6"></a>**1.3.1 分库分表的好处**	9722486cf5d447f3a88729f5addbed3c.md	/^### <a id="t6"><\/a><a id="t6"><\/a>**1.3.1 分库分表的好处**$/;"	S
+<a id="t6"></a>自旋锁	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^### <a id="t6"><\/a>自旋锁$/;"	S
+<a id="t7"></a><a id="t7"></a>**1.3.2 分库分表的挑战**	9722486cf5d447f3a88729f5addbed3c.md	/^### <a id="t7"><\/a><a id="t7"><\/a>**1.3.2 分库分表的挑战**$/;"	S
+<a id="t7"></a>重量级锁Synchronized	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^### <a id="t7"><\/a>重量级锁Synchronized$/;"	S
+<a id="t8"></a><a id="t8"></a>****1.4 小结****	9722486cf5d447f3a88729f5addbed3c.md	/^## <a id="t8"><\/a><a id="t8"><\/a>****1.4 小结****$/;"	s
+<a id="t8"></a>偏向锁	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^### <a id="t8"><\/a>偏向锁$/;"	S
+<a id="t9"></a>轻量级锁	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^### <a id="t9"><\/a>轻量级锁$/;"	S
+ABA的解决	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### ABA的解决$/;"	S
+ACL	03166802b9c74e0a817c74754fa85396.md	/^### ACL$/;"	S
+ACL Permission	03166802b9c74e0a817c74754fa85396.md	/^#### ACL Permission$/;"	t
+ACL插件	03166802b9c74e0a817c74754fa85396.md	/^### ACL插件$/;"	S
+AOP	a745c2b30f054ec3a7168739f6f20081.md	/^# AOP$/;"	c
+AQS	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### AQS$/;"	S
+AbstractQunendSynchronizer	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### AbstractQunendSynchronizer$/;"	S
+Alarms	56b50296ea96460f97666fd75fdbece5.md	/^## Alarms$/;"	s
+Atomic	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^## Atomic$/;"	s
+AtomicInteger	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### AtomicInteger$/;"	S
+AtomicLongFieldUpdater	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### AtomicLongFieldUpdater$/;"	S
+AtomicReference	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### AtomicReference$/;"	S
+AtomicReferenceFieldUpdater	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### AtomicReferenceFieldUpdater$/;"	S
+Attachments	56b50296ea96460f97666fd75fdbece5.md	/^## Attachments$/;"	s
+BIO，AIO，NIO	0679a8a27f6948ffad1e549871f2292a.md	/^# BIO，AIO，NIO$/;"	c
+CAS存在的问题：ABA	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^#### CAS存在的问题：ABA$/;"	t
+CAS： compare and swap	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### CAS： compare and swap $/;"	S
+Cache database	bdf143ba77ac4358a3ce271d043096d3.md	/^# Cache database$/;"	c
+Callable\\<T\\> 有返回值的：	0464cbfe609a4817aef3a0e0894aa098.md	/^### Callable\\<T\\> 有返回值的：    $/;"	S
+Challenge Problem And Solution	c5bef27fb9a04368a7f582bbb6a64a96.md	/^# Challenge Problem And Solution$/;"	c
+Clear	369f47b1df5148ad967bc16e5c272931.md	/^#### Clear$/;"	t
+Community and further help	56b50296ea96460f97666fd75fdbece5.md	/^## Community and further help$/;"	s
+ConcurrentHashMap	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### ConcurrentHashMap$/;"	S
+ConcurrentHashmap	369f47b1df5148ad967bc16e5c272931.md	/^# ConcurrentHashmap$/;"	c
+Condition	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### Condition$/;"	S
+Decompiler	2ee2ccec056d4b95a492ba49c7130043.md	/^## Decompiler$/;"	s
+Design discipline	fb5ec4fa88d243b8a000c92d741ea860.md	/^# Design discipline$/;"	c
+Docker	2c3a83718c054f3cbd76bf8e4cccfe6a.md	/^# Docker$/;"	c
+Donations	56b50296ea96460f97666fd75fdbece5.md	/^## Donations$/;"	s
+English	2f54136bc8e342b7896bd730b4385505.md	/^# English$/;"	c
+Exceptions 收集	46c592af790d4428bbdbeb479e23c367.md	/^# Exceptions 收集$/;"	c
+Exporting notes	08e1f31492884cc8ac03ffad1c92232c.md	/^# Exporting notes$/;"	c
+GC的阶段	2c636f9925dd44f8a6deaa8bab9bd094.md	/^#### GC的阶段 $/;"	t
+Get	369f47b1df5148ad967bc16e5c272931.md	/^#### Get$/;"	t
+Heading	d36e3573eb0a48cfaaf7a32fa0e00027.md	/^# Heading$/;"	c
+Idea 插件	e85fad4a8b4741dabe21df216c3c86bd.md	/^## Idea 插件$/;"	s
+Importing and exporting notes ↔️	08e1f31492884cc8ac03ffad1c92232c.md	/^# Importing and exporting notes ↔️$/;"	c
+Importing from Evernote	08e1f31492884cc8ac03ffad1c92232c.md	/^## Importing from Evernote$/;"	s
+Importing from other apps	08e1f31492884cc8ac03ffad1c92232c.md	/^# Importing from other apps$/;"	c
+JDK1.7	369f47b1df5148ad967bc16e5c272931.md	/^## JDK1.7$/;"	s
+JDK1.8	369f47b1df5148ad967bc16e5c272931.md	/^### JDK1.8$/;"	S
+JDK自带定时任务	7530e6579051433a8775bfbd2468f34c.md	/^## JDK自带定时任务$/;"	s
+JUC	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^# JUC$/;"	c
+JUC Exception	acdea0015d614eb99f08d154b7c01ecc.md	/^# JUC Exception$/;"	c
+JVM optimised	875e237cd86c464081d0d2540dc68e78.md	/^# JVM optimised$/;"	c
+JVM自带异常	46c592af790d4428bbdbeb479e23c367.md	/^## JVM自带异常$/;"	s
+Java基础	c4621d6aae0c44ddae5a55bb6ec7abe5.md	/^## Java基础$/;"	s
+Joplin is divided into three parts	d36e3573eb0a48cfaaf7a32fa0e00027.md	/^## Joplin is divided into three parts$/;"	s
+Kafka	ca25947ad03d4e17a6962cb8b239b160.md	/^# Kafka$/;"	c
+LAMBDA	ae0d9510f0ef4509a9d56937431b5d69.md	/^## LAMBDA$/;"	s
+List 转换 Map,key 冲突处理[#](#52250d)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### List 转换 Map,key 冲突处理[#](#52250d)$/;"	T
+Lock	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### Lock$/;"	S
+MQ？	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### MQ？$/;"	S
+MYSQL	d6e770d0df6a457eb94bdda487e14240.md	/^# MYSQL$/;"	c
+Map	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^## Map$/;"	s
+Mapper	c5bef27fb9a04368a7f582bbb6a64a96.md	/^### Mapper$/;"	S
+Markdown advanced tips	56b50296ea96460f97666fd75fdbece5.md	/^## Markdown advanced tips$/;"	s
+MySQL 主从复制	92c2653f592e445890e2aa03208acfea.md	/^# MySQL 主从复制$/;"	c
+MySql优化	d6e770d0df6a457eb94bdda487e14240.md	/^### MySql优化$/;"	S
+Mybatis	c5bef27fb9a04368a7f582bbb6a64a96.md	/^## Mybatis$/;"	s
+OncePerRequestFilter	c5bef27fb9a04368a7f582bbb6a64a96.md	/^### OncePerRequestFilter$/;"	S
+Organising your notes	d36e3573eb0a48cfaaf7a32fa0e00027.md	/^## Organising your notes$/;"	s
+PayMent System	e356071b2a024d54a0b814c68fd630fd.md	/^# PayMent System$/;"	c
+Plugin	c5bef27fb9a04368a7f582bbb6a64a96.md	/^### Plugin$/;"	S
+Privacy	bae5f385d93a4f9fbb5e48fc108644c4.md	/^# Privacy$/;"	c
+Problem with develop	71e8829e69684964a7a02d5e21ef9c90.md	/^# Problem with develop$/;"	c
+Protocol	b10f4d6f5d474510a64d56233a45e799.md	/^### Protocol$/;"	S
+Put	369f47b1df5148ad967bc16e5c272931.md	/^#### Put$/;"	t
+RESTTemplate需要看一下	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### RESTTemplate需要看一下$/;"	S
+RPC网站	fe534e8ad26b4cb19285104c54884c4f.md	/^# RPC网站$/;"	c
+RPC自己总结	f873889fce15432a9c519fd019863f91.md	/^# RPC自己总结$/;"	c
+ReentrantLock	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### ReentrantLock$/;"	S
+RejectedExecutionException	d16e141b728942378315dfc5360ac1a4.md	/^# RejectedExecutionException$/;"	c
+RestFul	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### RestFul$/;"	S
+SOAP/WSDL	f873889fce15432a9c519fd019863f91.md	/^#### SOAP\/WSDL$/;"	t
+Search	56b50296ea96460f97666fd75fdbece5.md	/^## Search$/;"	s
+Segment类	369f47b1df5148ad967bc16e5c272931.md	/^### Segment类$/;"	S
+Semantics of watch:watch	03166802b9c74e0a817c74754fa85396.md	/^#### Semantics of watch:watch$/;"	t
+SessionMovedException	03166802b9c74e0a817c74754fa85396.md	/^#### SessionMovedException    $/;"	t
+Setting up Dropbox synchronisation	c3a71f54f1424806b0828676ac1abf21.md	/^## Setting up Dropbox synchronisation$/;"	s
+Setting up Nextcloud synchronisation	c3a71f54f1424806b0828676ac1abf21.md	/^## Setting up Nextcloud synchronisation$/;"	s
+Setting up OneDrive or WebDAV synchronisation	c3a71f54f1424806b0828676ac1abf21.md	/^## Setting up OneDrive or WebDAV synchronisation$/;"	s
+Size	369f47b1df5148ad967bc16e5c272931.md	/^#### Size$/;"	t
+Spring	0250ffc337bd4217a777dd1480c10c00.md	/^## Spring$/;"	s
+Spring Boot	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^# Spring Boot$/;"	c
+Spring BootTest	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### Spring BootTest$/;"	S
+Sub-heading	d36e3573eb0a48cfaaf7a32fa0e00027.md	/^## Sub-heading$/;"	s
+Synchronising your notes 🔄	c3a71f54f1424806b0828676ac1abf21.md	/^# Synchronising your notes 🔄$/;"	c
+Synchronized的作用	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^#### Synchronized的作用$/;"	t
+Synchronized的实现	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^#### Synchronized的实现$/;"	t
+This noteBook is only for temperory save . you need to arrange it's content layter	2f71e230ee674f109bc881ff79138c5e.md	/^# This noteBook is only for temperory save . you need to arrange it's content layter$/;"	c
+ThreadPoolExecutor	0464cbfe609a4817aef3a0e0894aa098.md	/^## ThreadPoolExecutor$/;"	s
+Tips 💡	56b50296ea96460f97666fd75fdbece5.md	/^# Tips 💡$/;"	c
+UML 图形绘制	afa111ce5cfe400485d2ac4b96223c76.md	/^## UML 图形绘制$/;"	s
+Unsafe	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### Unsafe$/;"	S
+Using End-To-End Encryption	c3a71f54f1424806b0828676ac1abf21.md	/^## Using End-To-End Encryption$/;"	s
+Using MQ	17d8fbc117a64a66baf0190db8bcf27d.md	/^# Using MQ$/;"	c
+Web clipper	56b50296ea96460f97666fd75fdbece5.md	/^## Web clipper$/;"	s
+Welcome to Joplin! 🗒️	d36e3573eb0a48cfaaf7a32fa0e00027.md	/^# Welcome to Joplin! 🗒️$/;"	c
+With notebooks 📔	d36e3573eb0a48cfaaf7a32fa0e00027.md	/^### With notebooks 📔$/;"	S
+With tags 🏷️	d36e3573eb0a48cfaaf7a32fa0e00027.md	/^### With tags 🏷️$/;"	S
+Writing notes in Markdown	d36e3573eb0a48cfaaf7a32fa0e00027.md	/^## Writing notes in Markdown$/;"	s
+ZooKeeper Wathches	03166802b9c74e0a817c74754fa85396.md	/^### ZooKeeper Wathches$/;"	S
+`com.alibaba.fastjson.parser.JSONScanner#scanFieldSymbol()：`	a2f6621b59e44f919ec60bbe79854868.md	/^#### `com.alibaba.fastjson.parser.JSONScanner#scanFieldSymbol()：`$/;"	t
+`com.alibaba.fastjson.parser.SymbolTable#addSymbol()`:	a2f6621b59e44f919ec60bbe79854868.md	/^#### `com.alibaba.fastjson.parser.SymbolTable#addSymbol()`:$/;"	t
+aop	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^#### aop$/;"	t
+autojump[#](#2451958888)	5b14d498c70447da9c0feb3cef396a4d.md	/^#### autojump[#](#2451958888)$/;"	t
+bat[#](#2341713686)	5b14d498c70447da9c0feb3cef396a4d.md	/^#### bat[#](#2341713686)$/;"	t
+buffer pool&写入磁盘原理	d6e770d0df6a457eb94bdda487e14240.md	/^# buffer pool&写入磁盘原理$/;"	c
+chmod	1e735ec58b3b479b8462f34880dd6a9f.md	/^# chmod$/;"	c
+client先上线，server后上线，枚举映射	71e8829e69684964a7a02d5e21ef9c90.md	/^#### client先上线，server后上线，枚举映射$/;"	t
+commited	20e7a5e82dba40da83599b67c95a086d.md	/^#### commited$/;"	t
+create a kafka container with docker and zookepper	fc7ba3dad02f4b8db0589cf34ec2826a.md	/^#### create a kafka container with docker and zookepper$/;"	t
+datebase design	3a4964ebcd8841f3964b75bc0f960390.md	/^# datebase design$/;"	c
+demo	0af4ccddca684bd3a634722ff36445e8.md	/^## demo$/;"	s
+divide with filter and url； 根据域名隔离	c5bef27fb9a04368a7f582bbb6a64a96.md	/^### divide with filter and url； 根据域名隔离$/;"	S
+docker	fc7ba3dad02f4b8db0589cf34ec2826a.md	/^# docker$/;"	c
+docker	fc7ba3dad02f4b8db0589cf34ec2826a.md	/^## docker$/;"	s
+docker compose	fc7ba3dad02f4b8db0589cf34ec2826a.md	/^## docker compose$/;"	s
+dubbo 实战	b10f4d6f5d474510a64d56233a45e799.md	/^# dubbo 实战$/;"	c
+exceptionHandler	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^#### exceptionHandler    $/;"	t
+extract[#](#2772500927)	5b14d498c70447da9c0feb3cef396a4d.md	/^### extract[#](#2772500927)$/;"	S
+filter	c5bef27fb9a04368a7f582bbb6a64a96.md	/^## filter$/;"	s
+full join	d6e770d0df6a457eb94bdda487e14240.md	/^#### full join$/;"	t
+get host	3b9ff3ccdfbc41e98577621af7358bfe.md	/^#### get host$/;"	t
+git-open[#](#388194823)	5b14d498c70447da9c0feb3cef396a4d.md	/^#### git-open[#](#388194823)$/;"	t
+github idea setting token	2ab7437bfdec483caf53d941a40cb3e1.md	/^## github idea setting token$/;"	s
+git插件[#](#3061681453)	5b14d498c70447da9c0feb3cef396a4d.md	/^#### git插件[#](#3061681453)$/;"	t
+idea	d9950afa25b64312ad1f064a09e564fd.md	/^# idea$/;"	c
+innner join	d6e770d0df6a457eb94bdda487e14240.md	/^#### innner join$/;"	t
+interceptor	c5bef27fb9a04368a7f582bbb6a64a96.md	/^#### interceptor$/;"	t
+ioc	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^#### ioc$/;"	t
+jackson/gson 解析请求的requestBody	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### jackson\/gson 解析请求的requestBody$/;"	S
+java	1c113e5eb84643e98c9034f5c20e4865.md	/^# java$/;"	c
+java	2ee2ccec056d4b95a492ba49c7130043.md	/^# java$/;"	c
+java 基础	2c58fd9c359b495a969e59dbffc29a00.md	/^# java 基础$/;"	c
+java部分	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^### java部分$/;"	S
+join	d6e770d0df6a457eb94bdda487e14240.md	/^### join$/;"	S
+joplinNotebook	README.md	/^# joplinNotebook$/;"	c
+jvm	1c113e5eb84643e98c9034f5c20e4865.md	/^## jvm$/;"	s
+jvm	2c636f9925dd44f8a6deaa8bab9bd094.md	/^# jvm$/;"	c
+jvm划分	2c636f9925dd44f8a6deaa8bab9bd094.md	/^## jvm划分$/;"	s
+jvm层面	7d59a2187cc74067adb8013ce59d0ec5.md	/^## jvm层面$/;"	s
+jvm工具	2c636f9925dd44f8a6deaa8bab9bd094.md	/^### jvm工具$/;"	S
+jvm开启/关闭偏向锁	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^#### jvm开启\/关闭偏向锁$/;"	t
+jvm监控	2c636f9925dd44f8a6deaa8bab9bd094.md	/^## jvm监控$/;"	s
+jvm监控工具	1c113e5eb84643e98c9034f5c20e4865.md	/^### jvm监控工具$/;"	S
+kafka	20e7a5e82dba40da83599b67c95a086d.md	/^## kafka$/;"	s
+kafka	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^#### kafka$/;"	t
+leader	20e7a5e82dba40da83599b67c95a086d.md	/^##### leader$/;"	T
+left join	d6e770d0df6a457eb94bdda487e14240.md	/^#### left join$/;"	t
+linux	b96c0cc3e9504f26913c2d9e908012bc.md	/^## linux$/;"	s
+linux工具	b96c0cc3e9504f26913c2d9e908012bc.md	/^# linux工具$/;"	c
+lock-next	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^##### lock-next$/;"	T
+log	20e7a5e82dba40da83599b67c95a086d.md	/^#### log$/;"	t
+mac :	b96c0cc3e9504f26913c2d9e908012bc.md	/^## mac : $/;"	s
+mvcc	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^##### mvcc$/;"	T
+mvcc :multy virson concurrent control	d6e770d0df6a457eb94bdda487e14240.md	/^### mvcc :multy virson concurrent control$/;"	S
+mybatis	73b175c5ff454c168c36ebc9fa0bbdbe.md	/^# mybatis$/;"	c
+mybatis update，没有更新也显示影响条数是1	73b175c5ff454c168c36ebc9fa0bbdbe.md	/^#### mybatis update，没有更新也显示影响条数是1$/;"	t
+mysql	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^#### mysql$/;"	t
+mysql 主从复制	92c2653f592e445890e2aa03208acfea.md	/^# mysql 主从复制$/;"	c
+native实现代码:	a2f6621b59e44f919ec60bbe79854868.md	/^#### native实现代码:$/;"	t
+natual join	d6e770d0df6a457eb94bdda487e14240.md	/^#### natual join$/;"	t
+nesting is not allowed in struct	71e8829e69684964a7a02d5e21ef9c90.md	/^#### nesting is not allowed in struct$/;"	t
+nginx	659fd3e88ea64b88a778c9e21d7d49a7.md	/^# nginx$/;"	c
+oh-my-zsh[#](#814015410)	5b14d498c70447da9c0feb3cef396a4d.md	/^## oh-my-zsh[#](#814015410)$/;"	s
+one	acdea0015d614eb99f08d154b7c01ecc.md	/^#### one $/;"	t
+partion	20e7a5e82dba40da83599b67c95a086d.md	/^#### partion$/;"	t
+pull vs push	20e7a5e82dba40da83599b67c95a086d.md	/^#### pull vs push$/;"	t
+question	040edfae580940d4a23deef774ecbf45.md	/^# question$/;"	c
+reblance的时候会触发重复消费么？	040edfae580940d4a23deef774ecbf45.md	/^## reblance的时候会触发重复消费么？$/;"	s
+remove	369f47b1df5148ad967bc16e5c272931.md	/^#### remove$/;"	t
+requestBody是下划线，实体类是驼峰：	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### requestBody是下划线，实体类是驼峰：$/;"	S
+rest	f873889fce15432a9c519fd019863f91.md	/^#### rest$/;"	t
+right join	d6e770d0df6a457eb94bdda487e14240.md	/^#### right join$/;"	t
+rpc	f873889fce15432a9c519fd019863f91.md	/^#### rpc    $/;"	t
+rpc和rest区别	f873889fce15432a9c519fd019863f91.md	/^#### rpc和rest区别$/;"	t
+scanAndLockForPut	369f47b1df5148ad967bc16e5c272931.md	/^#### scanAndLockForPut$/;"	t
+search	b96c0cc3e9504f26913c2d9e908012bc.md	/^# search$/;"	c
+self dependency	71e8829e69684964a7a02d5e21ef9c90.md	/^#### self dependency$/;"	t
+soa	f873889fce15432a9c519fd019863f91.md	/^#### soa$/;"	t
+software	1e25c67378f94e08b402665aedc47ef3.md	/^# software$/;"	c
+solve： start a container and go into the container of zookeeper, check the ip and go back to the kafka ,recorrect the ip;	fc7ba3dad02f4b8db0589cf34ec2826a.md	/^#### solve： start a container and go into the container of zookeeper, check the ip and go back/;"	t
+sping 以注解的方式暴露服务	b10f4d6f5d474510a64d56233a45e799.md	/^### sping 以注解的方式暴露服务$/;"	S
+spring	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^### spring$/;"	S
+spring	7004470f99da4cebb56c7bd6cceddfc3.md	/^### spring$/;"	S
+spring 5 新框架：web flux 响应式框架	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### spring 5 新框架：web flux 响应式框架     $/;"	S
+spring bean实例化的过程	a61fb0c018594744a534abacf1aada3e.md	/^## spring bean实例化的过程$/;"	s
+spring boot	94f8063ce542476ab7d825808a14b015.md	/^## spring boot$/;"	s
+spring cloud	94f8063ce542476ab7d825808a14b015.md	/^## spring cloud$/;"	s
+spring mvc	94f8063ce542476ab7d825808a14b015.md	/^## spring mvc$/;"	s
+spring retury 重试框架，	94f8063ce542476ab7d825808a14b015.md	/^## spring retury 重试框架，$/;"	s
+spring tips	3b9ff3ccdfbc41e98577621af7358bfe.md	/^# spring tips$/;"	c
+spring transaction	c24b6cad67d84528a0a274686e52afea.md	/^# spring transaction$/;"	c
+spring 模板方法涉及模式	71e8829e69684964a7a02d5e21ef9c90.md	/^#### spring 模板方法涉及模式$/;"	t
+springboot	b10f4d6f5d474510a64d56233a45e799.md	/^#### springboot$/;"	t
+spring含有多个main，指定启动类	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### spring含有多个main，指定启动类$/;"	S
+spring涉及的框架	94f8063ce542476ab7d825808a14b015.md	/^# spring涉及的框架$/;"	c
+srping cloud	d68d160682e24e1fadbeacd23ea254fa.md	/^# srping cloud$/;"	c
+stampedLock	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### stampedLock$/;"	S
+sync有两种：Fair和UnFair，同样是两个内部类	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^#### sync有两种：Fair和UnFair，同样是两个内部类$/;"	t
+threadLocal	f9ccfa450ed2453085f20fce78402303.md	/^## threadLocal$/;"	s
+thrift	0af4ccddca684bd3a634722ff36445e8.md	/^# thrift$/;"	c
+thrift	71e8829e69684964a7a02d5e21ef9c90.md	/^## thrift$/;"	s
+thrift 枚举采坑	0af4ccddca684bd3a634722ff36445e8.md	/^## thrift 枚举采坑$/;"	s
+thrift接口使用	0af4ccddca684bd3a634722ff36445e8.md	/^## thrift接口使用$/;"	s
+tip	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### tip     $/;"	S
+tip	3a4964ebcd8841f3964b75bc0f960390.md	/^# tip$/;"	c
+topic	20e7a5e82dba40da83599b67c95a086d.md	/^#### topic$/;"	t
+two	acdea0015d614eb99f08d154b7c01ecc.md	/^#### two$/;"	t
+wait await sleep yield	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^### wait await sleep yield$/;"	S
+wait/signal	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^#### wait\/signal$/;"	t
+webService：	f873889fce15432a9c519fd019863f91.md	/^## webService：$/;"	s
+webservice 如何保证安全	f873889fce15432a9c519fd019863f91.md	/^#### webservice 如何保证安全$/;"	t
+web容器	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### web容器$/;"	S
+zookeeper	03166802b9c74e0a817c74754fa85396.md	/^# zookeeper$/;"	c
+zsh-autosuggestions[#](#507225200)	5b14d498c70447da9c0feb3cef396a4d.md	/^#### zsh-autosuggestions[#](#507225200)$/;"	t
+zsh-syntax-highlighting[#](#3137597227)	5b14d498c70447da9c0feb3cef396a4d.md	/^#### zsh-syntax-highlighting[#](#3137597227)$/;"	t
+zsh主题[#](#399847280)	5b14d498c70447da9c0feb3cef396a4d.md	/^### zsh主题[#](#399847280)$/;"	S
+zsh扩展[#](#2932070182)	5b14d498c70447da9c0feb3cef396a4d.md	/^### zsh扩展[#](#2932070182)$/;"	S
+一 支付宝	e356071b2a024d54a0b814c68fd630fd.md	/^## 一 支付宝$/;"	s
+一. intern 的实现原理	a2f6621b59e44f919ec60bbe79854868.md	/^## 一. intern 的实现原理$/;"	s
+一个方法调用本类方法不会加事务的原因	6d018b5b40c44bcb85191028ecbaa3f9.md	/^# 一个方法调用本类方法不会加事务的原因$/;"	c
+一次关于优化gc的对话	875e237cd86c464081d0d2540dc68e78.md	/^#### 一次关于优化gc的对话$/;"	t
+一般是这样用	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^#### 一般是这样用    $/;"	t
+三.使用 intern	a2f6621b59e44f919ec60bbe79854868.md	/^## 三.使用 intern$/;"	s
+上线过程兼容性考虑	6b1652c5584d4709ad70ede30ae4c390.md	/^## 上线过程兼容性考虑$/;"	s
+下载	b96c0cc3e9504f26913c2d9e908012bc.md	/^# 下载$/;"	c
+下载工具	b96c0cc3e9504f26913c2d9e908012bc.md	/^## 下载工具$/;"	s
+不能构建泛型数组	2c58fd9c359b495a969e59dbffc29a00.md	/^## 不能构建泛型数组$/;"	s
+不能构建泛型数组	f4a1e2586709467d87bd1020119c6ffa.md	/^## 不能构建泛型数组$/;"	s
+不要求强一致性的可以使用dataBus。可以保证只有在第一个事务成功。分布式事务回滚难度大。	1f9dac45bf5641de8a1e70f9decccea6.md	/^#### 不要求强一致性的可以使用dataBus。可以保证只有在第一个事务成功。/;"	t
+中间  订单创建支付调用	e356071b2a024d54a0b814c68fd630fd.md	/^### 中间  订单创建支付调用$/;"	S
+中间组件	7004470f99da4cebb56c7bd6cceddfc3.md	/^### 中间组件$/;"	S
+中间：涉及的商户系统	e356071b2a024d54a0b814c68fd630fd.md	/^#### 中间：涉及的商户系统    $/;"	t
+乐观锁	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^#### 乐观锁$/;"	t
+事务	1f9dac45bf5641de8a1e70f9decccea6.md	/^# 事务$/;"	c
+事务	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^#### 事务$/;"	t
+事务	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^##### 事务$/;"	T
+事务的解决：mvcc，涉及模式：备忘录设计模式	d6e770d0df6a457eb94bdda487e14240.md	/^### 事务的解决：mvcc，涉及模式：备忘录设计模式$/;"	S
+事务隔离级别	d6e770d0df6a457eb94bdda487e14240.md	/^### 事务隔离级别$/;"	S
+二 项目模块	e356071b2a024d54a0b814c68fd630fd.md	/^## 二 项目模块$/;"	s
+二.jdk6 和 jdk7 下 intern 的区别	a2f6621b59e44f919ec60bbe79854868.md	/^## 二.jdk6 和 jdk7 下 intern 的区别$/;"	s
+五.总结	a2f6621b59e44f919ec60bbe79854868.md	/^## 五.总结$/;"	s
+代码模式总结	972eaf1c3e3b48bb8408edbfbd5b02a9.md	/^## 代码模式总结$/;"	s
+代码统计量	c56eaad9f0334f429d96c9bd19952464.md	/^# 代码统计量$/;"	c
+优化参数	2c636f9925dd44f8a6deaa8bab9bd094.md	/^## 优化参数$/;"	s
+优惠券	c76d8dd1a5964f0ba88f67eb84da9e0e.md	/^### 优惠券$/;"	S
+作息时间	a0f45f0da2b24772ad075de757b8807e.md	/^#### 作息时间$/;"	t
+使用FutureTask	0464cbfe609a4817aef3a0e0894aa098.md	/^### 使用FutureTask$/;"	S
+使用idea运行	ca25947ad03d4e17a6962cb8b239b160.md	/^## 使用idea运行$/;"	s
+使用技巧[#](#1347934126)	5b14d498c70447da9c0feb3cef396a4d.md	/^## 使用技巧[#](#1347934126)$/;"	s
+使用桥接网络	fc7ba3dad02f4b8db0589cf34ec2826a.md	/^## 使用桥接网络$/;"	s
+使用配置文件	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### 使用配置文件    $/;"	S
+偏向锁的实现	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^#### 偏向锁的实现$/;"	t
+偏向锁的适用场景	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^#### 偏向锁的适用场景$/;"	t
+偏向锁的释放：	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^##### 偏向锁的释放：$/;"	T
+偏向锁获取过程：	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^##### 偏向锁获取过程：$/;"	T
+充电	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### 充电$/;"	S
+免费外语电子书	aa82edff0c874fc08ee24f8a38b6382c.md	/^#### 免费外语电子书$/;"	t
+公司案例	1f9dac45bf5641de8a1e70f9decccea6.md	/^#### 公司案例$/;"	t
+公司案例	d6e770d0df6a457eb94bdda487e14240.md	/^#### 公司案例$/;"	t
+内存分配策略	2c636f9925dd44f8a6deaa8bab9bd094.md	/^## 内存分配策略$/;"	s
+内部类：sync	8f146dc0dcf7444d95fcfbe0e5351faa.md	/^#### 内部类：sync$/;"	t
+准备[#](#1853171302)	5b14d498c70447da9c0feb3cef396a4d.md	/^## 准备[#](#1853171302)$/;"	s
+准备年 2021.3-2022.3	a0f45f0da2b24772ad075de757b8807e.md	/^## 准备年 2021.3-2022.3$/;"	s
+分布式事务	1f9dac45bf5641de8a1e70f9decccea6.md	/^##  分布式事务$/;"	s
+分布式事务	29a3c9a9b15247a3b69824ec9c564252.md	/^# 分布式事务$/;"	c
+分布式事务回滚	6b1652c5584d4709ad70ede30ae4c390.md	/^## 分布式事务回滚$/;"	s
+分组归类[#](#99f250)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 分组归类[#](#99f250)$/;"	T
+创建代理类的入口	a61fb0c018594744a534abacf1aada3e.md	/^#### 创建代理类的入口$/;"	t
+创建内部网络	fc7ba3dad02f4b8db0589cf34ec2826a.md	/^##### 创建内部网络 $/;"	T
+判空异常操作[#](#434a0c)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 判空异常操作[#](#434a0c)$/;"	T
+判空操作[#](#4afa91)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 判空操作[#](#4afa91)$/;"	T
+匹配任何一个则返回[#](#9ae11e)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 匹配任何一个则返回[#](#9ae11e)$/;"	T
+匹配所有[#](#e593c0)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 匹配所有[#](#e593c0)$/;"	T
+匹配符合条件的第一个元素[#](#25f054)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 匹配符合条件的第一个元素[#](#25f054)$/;"	T
+匿名内部类[#](#510624)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 匿名内部类[#](#510624)$/;"	T
+去重操作[#](#78ad62)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 去重操作[#](#78ad62)$/;"	T
+参考资料	92c2653f592e445890e2aa03208acfea.md	/^# 参考资料$/;"	c
+名词自查	ab4a81f0a94f45e580547f80700c6c40.md	/^# 名词自查$/;"	c
+后端  支付系统：	e356071b2a024d54a0b814c68fd630fd.md	/^### 后端  支付系统： $/;"	S
+命令	03166802b9c74e0a817c74754fa85396.md	/^### 命令$/;"	S
+回收机制	2c636f9925dd44f8a6deaa8bab9bd094.md	/^## 回收机制$/;"	s
+场景和办法	0ceb737b12bb4d9e92a14a786e4f493f.md	/^### 场景和办法$/;"	S
+基本概念	fc7ba3dad02f4b8db0589cf34ec2826a.md	/^## 基本概念$/;"	s
+基础年 2018.3 - 2019.3	a0f45f0da2b24772ad075de757b8807e.md	/^## 基础年 2018.3 - 2019.3 $/;"	s
+基础异常	46c592af790d4428bbdbeb479e23c367.md	/^### 基础异常$/;"	S
+复习总纲	c4621d6aae0c44ddae5a55bb6ec7abe5.md	/^# 复习总纲$/;"	c
+复习题	d05f1e025dc5461db56bbd0a808ca77d.md	/^### 复习题$/;"	S
+多线程	0464cbfe609a4817aef3a0e0894aa098.md	/^# 多线程$/;"	c
+多肽	7d59a2187cc74067adb8013ce59d0ec5.md	/^## 多肽$/;"	s
+如何调试本地服务	b10f4d6f5d474510a64d56233a45e799.md	/^### 如何调试本地服务$/;"	S
+学习月计划	5da6f61062874ed4940a63aa69b049e3.md	/^# 学习月计划$/;"	c
+学习计划2.0	7f98dd84a0b7424e963ce7cb4b81b6a6.md	/^# 学习计划2.0$/;"	c
+学习计划3.0	7f98dd84a0b7424e963ce7cb4b81b6a6.md	/^# 学习计划3.0$/;"	c
+安装oh-my-zsh[#](#3220924664)	5b14d498c70447da9c0feb3cef396a4d.md	/^### 安装oh-my-zsh[#](#3220924664)$/;"	S
+安装zsh[#](#1606922811)	5b14d498c70447da9c0feb3cef396a4d.md	/^## 安装zsh[#](#1606922811)$/;"	s
+定义函数式方法[#](#b342dc)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 定义函数式方法[#](#b342dc)$/;"	T
+定义：	03166802b9c74e0a817c74754fa85396.md	/^#### 定义：$/;"	t
+定制快捷键	fa256b8b8cd645869fbe7c3b36aef90d.md	/^## 定制快捷键$/;"	s
+定时任务系统	9579ba59ae69412d8b3647e25fd36bf7.md	/^### 定时任务系统$/;"	S
+实践	7f98dd84a0b7424e963ce7cb4b81b6a6.md	/^#### 实践$/;"	t
+将`zsh`设置为默认shell[#](#3465571384)	5b14d498c70447da9c0feb3cef396a4d.md	/^### 将`zsh`设置为默认shell[#](#3465571384)$/;"	S
+将容器的8000端口映射到本机的8001端口	fc7ba3dad02f4b8db0589cf34ec2826a.md	/^##### 将容器的8000端口映射到本机的8001端口$/;"	T
+小命令	450caa97a990489293c195e784d4a5d0.md	/^## 小命令$/;"	s
+小结	a2f6621b59e44f919ec60bbe79854868.md	/^#### 小结$/;"	t
+小说	aa82edff0c874fc08ee24f8a38b6382c.md	/^## 小说$/;"	s
+工作休闲	b96c0cc3e9504f26913c2d9e908012bc.md	/^# 工作休闲$/;"	c
+常用快捷键[#](#3754275833)	5b14d498c70447da9c0feb3cef396a4d.md	/^## 常用快捷键[#](#3754275833)$/;"	s
+常用自定义	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^#### 常用自定义$/;"	t
+并发处理	58b3385ff73f44db882b8e97b033b30e.md	/^## 并发处理$/;"	s
+并发控制技术：	d6e770d0df6a457eb94bdda487e14240.md	/^### 并发控制技术：$/;"	S
+并行流计算[#](#3462b5)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 并行流计算[#](#3462b5)$/;"	T
+序列化	e3d204166df140ea80132b8afc137ebb.md	/^## 序列化$/;"	s
+序列化id	e3d204166df140ea80132b8afc137ebb.md	/^### 序列化id$/;"	S
+序列化前和序列化后的对象的关系	e3d204166df140ea80132b8afc137ebb.md	/^### 序列化前和序列化后的对象的关系$/;"	S
+延伸阅读	0250ffc337bd4217a777dd1480c10c00.md	/^## 延伸阅读$/;"	s
+开发工具	e85fad4a8b4741dabe21df216c3c86bd.md	/^# 开发工具$/;"	c
+开源电商系统	2fd6c24a978846f5b6c7dde301ac5b9e.md	/^# 开源电商系统$/;"	c
+引言	a2f6621b59e44f919ec60bbe79854868.md	/^## 引言$/;"	s
+张土豪的面试	22cb762886f44a1f8a2bf227821d3fad.md	/^### 张土豪的面试$/;"	S
+张土豪的面试	5f7765299b974936b892535f2063192b.md	/^### 张土豪的面试$/;"	S
+影视	aa82edff0c874fc08ee24f8a38b6382c.md	/^## 影视$/;"	s
+快照读 当前读	d6e770d0df6a457eb94bdda487e14240.md	/^### 快照读 当前读$/;"	S
+总纲	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^## 总纲$/;"	s
+总结一下 Stream 流的特点[#](#9432b7)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 总结一下 Stream 流的特点[#](#9432b7)$/;"	T
+悲观锁	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^#### 悲观锁$/;"	t
+我的美团面试	5f7765299b974936b892535f2063192b.md	/^### 我的美团面试$/;"	S
+或者	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^#### 或者        $/;"	t
+截取流的前 N 个元素[#](#9250c9)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 截取流的前 N 个元素[#](#9250c9)$/;"	T
+技能栈	7004470f99da4cebb56c7bd6cceddfc3.md	/^## 技能栈$/;"	s
+拆单	c76d8dd1a5964f0ba88f67eb84da9e0e.md	/^## 拆单$/;"	s
+拓展年 2019.3 - 1020.3	a0f45f0da2b24772ad075de757b8807e.md	/^## 拓展年 2019.3 - 1020.3$/;"	s
+排序[#](#c360e9)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 排序[#](#c360e9)$/;"	T
+推荐读物	20e7a5e82dba40da83599b67c95a086d.md	/^#### 推荐读物$/;"	t
+提现方式	e356071b2a024d54a0b814c68fd630fd.md	/^### 提现方式$/;"	S
+提现账户	e356071b2a024d54a0b814c68fd630fd.md	/^## 提现账户$/;"	s
+插件	b96c0cc3e9504f26913c2d9e908012bc.md	/^# 插件$/;"	c
+支付系统	c76d8dd1a5964f0ba88f67eb84da9e0e.md	/^## 支付系统$/;"	s
+支付系统：优惠券模块	e356071b2a024d54a0b814c68fd630fd.md	/^#### 支付系统：优惠券模块$/;"	t
+支付系统：分润模块	e356071b2a024d54a0b814c68fd630fd.md	/^#### 支付系统：分润模块$/;"	t
+支付系统：商户层级	e356071b2a024d54a0b814c68fd630fd.md	/^#### 支付系统：商户层级$/;"	t
+支付系统：支付模块	e356071b2a024d54a0b814c68fd630fd.md	/^#### 支付系统：支付模块$/;"	t
+支付系统：订单系统	e356071b2a024d54a0b814c68fd630fd.md	/^#### 支付系统：订单系统$/;"	t
+数据存储	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^### 数据存储$/;"	S
+数据推荐	0250ffc337bd4217a777dd1480c10c00.md	/^# 数据推荐$/;"	c
+文件	b96c0cc3e9504f26913c2d9e908012bc.md	/^# 文件	$/;"	c
+文本编辑器	b96c0cc3e9504f26913c2d9e908012bc.md	/^## 文本编辑器$/;"	s
+无损音乐下载	aa82edff0c874fc08ee24f8a38b6382c.md	/^#### 无损音乐下载$/;"	t
+更多参考	0250ffc337bd4217a777dd1480c10c00.md	/^## 更多参考$/;"	s
+最后	d16e141b728942378315dfc5360ac1a4.md	/^#### 最后$/;"	t
+查看停顿–安全点停顿日志	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^##### 查看停顿–安全点停顿日志$/;"	T
+查看当前环境shell[#](#2277135689)	5b14d498c70447da9c0feb3cef396a4d.md	/^### 查看当前环境shell[#](#2277135689)$/;"	S
+查看系统自带哪些shell[#](#2727757197)	5b14d498c70447da9c0feb3cef396a4d.md	/^### 查看系统自带哪些shell[#](#2727757197)$/;"	S
+案例1	d6e770d0df6a457eb94bdda487e14240.md	/^#### 案例1$/;"	t
+案例2	d6e770d0df6a457eb94bdda487e14240.md	/^#### 案例2$/;"	t
+案例分析	d6e770d0df6a457eb94bdda487e14240.md	/^## 案例分析$/;"	s
+概念	03166802b9c74e0a817c74754fa85396.md	/^### 概念$/;"	S
+死锁	d6e770d0df6a457eb94bdda487e14240.md	/^# 死锁$/;"	c
+求和[#](#fa599e)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 求和[#](#fa599e)$/;"	T
+求最大值最小值[#](#1113f6)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 求最大值最小值[#](#1113f6)$/;"	T
+泛型	f4a1e2586709467d87bd1020119c6ffa.md	/^# 泛型$/;"	c
+注册中心	b10f4d6f5d474510a64d56233a45e799.md	/^### 注册中心$/;"	S
+测试一：事务隔离级别：RR	9de0c9f5443f420b802cf0700e3c08df.md	/^## 测试一：事务隔离级别：RR$/;"	s
+测试二：	9de0c9f5443f420b802cf0700e3c08df.md	/^## 测试二：$/;"	s
+消息推送服务的实现原理？	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### 消息推送服务的实现原理？$/;"	S
+涉及到组合的使用	73b175c5ff454c168c36ebc9fa0bbdbe.md	/^#### 涉及到组合的使用$/;"	t
+混合引擎注意：	d6e770d0df6a457eb94bdda487e14240.md	/^### 混合引擎注意：$/;"	S
+特例	1f9dac45bf5641de8a1e70f9decccea6.md	/^## 特例$/;"	s
+特点：支持函数式编程，基于注解，使用Flux	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^#### 特点：支持函数式编程，基于注解，使用Flux$/;"	t
+理解锁的基础知识	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^## 理解锁的基础知识$/;"	s
+电商	c76d8dd1a5964f0ba88f67eb84da9e0e.md	/^# 电商$/;"	c
+电影下载	aa82edff0c874fc08ee24f8a38b6382c.md	/^#### 电影下载$/;"	t
+知识点拾遗	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### 知识点拾遗$/;"	S
+知识点拾遗	6890d3d0947844a28c96e116adfbaf35.md	/^## 知识点拾遗$/;"	s
+破解	aa82edff0c874fc08ee24f8a38b6382c.md	/^#### 破解$/;"	t
+笔记本	b96c0cc3e9504f26913c2d9e908012bc.md	/^# 笔记本$/;"	c
+笔记本组合	b96c0cc3e9504f26913c2d9e908012bc.md	/^## 笔记本组合$/;"	s
+等值链接和内连接等效，不学了	d6e770d0df6a457eb94bdda487e14240.md	/^#### 等值链接和内连接等效，不学了$/;"	t
+简单api	03166802b9c74e0a817c74754fa85396.md	/^### 简单api$/;"	S
+算法	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^### 算法$/;"	S
+系统涉及经验	ca0074406060438b88d5408db8f4afd3.md	/^## 系统涉及经验$/;"	s
+系统盘刻录工具	28ad10b69bf04f06ab66ad37a90b32ea.md	/^# 系统盘刻录工具$/;"	c
+系统设计	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^### 系统设计$/;"	S
+索引	0ceb737b12bb4d9e92a14a786e4f493f.md	/^## 索引$/;"	s
+线程	71e8829e69684964a7a02d5e21ef9c90.md	/^## 线程$/;"	s
+线程池复用的坑	71e8829e69684964a7a02d5e21ef9c90.md	/^#### 线程池复用的坑$/;"	t
+线程的5种状态	0464cbfe609a4817aef3a0e0894aa098.md	/^### 线程的5种状态$/;"	S
+结论	d16e141b728942378315dfc5360ac1a4.md	/^### 结论$/;"	S
+网址	ab4a81f0a94f45e580547f80700c6c40.md	/^## 网址$/;"	s
+网页	aa82edff0c874fc08ee24f8a38b6382c.md	/^# 网页$/;"	c
+翻墙	aa82edff0c874fc08ee24f8a38b6382c.md	/^## 翻墙$/;"	s
+老年代空间扩容？	2c636f9925dd44f8a6deaa8bab9bd094.md	/^### 老年代空间扩容？ $/;"	S
+背景	92c2653f592e445890e2aa03208acfea.md	/^# 背景$/;"	c
+能力提升	a0f45f0da2b24772ad075de757b8807e.md	/^#### 能力提升$/;"	t
+脚本插件	b96c0cc3e9504f26913c2d9e908012bc.md	/^## 脚本插件$/;"	s
+自定义异常处理	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^### 自定义异常处理$/;"	S
+自旋锁时间阈值	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^#### 自旋锁时间阈值$/;"	t
+自旋锁的优缺点	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^#### 自旋锁的优缺点$/;"	t
+自旋锁的开启	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^#### 自旋锁的开启$/;"	t
+规约计算[#](#225056)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 规约计算[#](#225056)$/;"	T
+订单是一个list，拆单是通过aop的方式，实现热插拔拆单，随时增加拆单规则	c76d8dd1a5964f0ba88f67eb84da9e0e.md	/^#### 订单是一个list，拆单是通过aop的方式，实现热插拔拆单，随时增加拆/;"	t
+设计	20e7a5e82dba40da83599b67c95a086d.md	/^## 设计$/;"	s
+设计模式	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^### 设计模式$/;"	S
+询问问题	38baba7a6262464cb32a891640e1b204.md	/^## 询问问题$/;"	s
+读书	7f98dd84a0b7424e963ce7cb4b81b6a6.md	/^#### 读书    $/;"	t
+读书	7f98dd84a0b7424e963ce7cb4b81b6a6.md	/^#### 读书$/;"	t
+读取文件[#](#e34255)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 读取文件[#](#e34255)$/;"	T
+调岗	1ae277d9a84c440ca7b6732f10b6ae50.md	/^# 调岗$/;"	c
+调试	b10f4d6f5d474510a64d56233a45e799.md	/^## 调试$/;"	s
+负载均衡	20e7a5e82dba40da83599b67c95a086d.md	/^#### 负载均衡$/;"	t
+跳过流的前 N 个元素[#](#0d5027)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 跳过流的前 N 个元素[#](#0d5027)$/;"	T
+轻量级锁的释放	7ec1ad58d6fd4ef3a80a1210e916ca3e.md	/^#### 轻量级锁的释放$/;"	t
+过滤[#](#bb8472)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 过滤[#](#bb8472)$/;"	T
+返回非空值[#](#b47511)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 返回非空值[#](#b47511)$/;"	T
+还可以验证	2f8893e8a51a45e59a1ea1cc845eedfd.md	/^#### 还可以验证$/;"	t
+进入容器内部	fc7ba3dad02f4b8db0589cf34ec2826a.md	/^##### 进入容器内部$/;"	T
+远航年	a0f45f0da2b24772ad075de757b8807e.md	/^## 远航年$/;"	s
+通知	e356071b2a024d54a0b814c68fd630fd.md	/^### 通知$/;"	S
+配置	20e7a5e82dba40da83599b67c95a086d.md	/^## 配置$/;"	s
+重复请求判断	6b1652c5584d4709ad70ede30ae4c390.md	/^## 重复请求判断$/;"	s
+重构:改善既有代码的设计	0250ffc337bd4217a777dd1480c10c00.md	/^## 重构:改善既有代码的设计$/;"	s
+链接流程	03166802b9c74e0a817c74754fa85396.md	/^### 链接流程$/;"	S
+锁	d6e770d0df6a457eb94bdda487e14240.md	/^### 锁$/;"	S
+问题：	9de0c9f5443f420b802cf0700e3c08df.md	/^#### 问题：$/;"	t
+集合判空遍历操作[#](#9a78be)	9c54d80fdd234ee6b860b6405c9d91f7.md	/^##### 集合判空遍历操作[#](#9a78be)$/;"	T
+集成插件	845d0fcf28bc4d718629f312164b84f8.md	/^## 集成插件$/;"	s
+静态	e3d204166df140ea80132b8afc137ebb.md	/^### 静态$/;"	S
+靠前  订单流水	e356071b2a024d54a0b814c68fd630fd.md	/^### 靠前  订单流水    $/;"	S
+面向对象+设计模式	0250ffc337bd4217a777dd1480c10c00.md	/^## 面向对象+设计模式$/;"	s
+面试题	22cb762886f44a1f8a2bf227821d3fad.md	/^# 面试题$/;"	c
+面试题收集	4f48a4d3ad964e0cafa07d5ac3c92b63.md	/^### 面试题收集$/;"	S
+音乐	aa82edff0c874fc08ee24f8a38b6382c.md	/^## 音乐$/;"	s
+题库	80b68f6794554e8ab680a50f5b203b9b.md	/^## 题库$/;"	s
